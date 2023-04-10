@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/IndustryPropsPack6/Meshes/BP_Boards01.uasset",
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/IndustryPropsPack6/Meshes/BP_CardboardBox01.uasset",
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/IndustryPropsPack6/Meshes/BP_Crate01.uasset",
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/IndustryPropsPack6/Meshes/BP_Hose01.uasset",
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/IndustryPropsPack6/Meshes/BP_IndustryBarrel.uasset",
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/IndustryPropsPack6/Meshes/BP_IndustryBarrel01.uasset",
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/IndustryPropsPack6/Meshes/BP_IndustryBarrel02.uasset",
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/IndustryPropsPack6/Meshes/BP_IndustryBarrel03.uasset",
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/IndustryPropsPack6/Meshes/BP_IndustryBarrels.uasset",
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/IndustryPropsPack6/Meshes/BP_Rack01.uasset",
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/IndustryPropsPack6/Meshes/BP_TrafficCylinder01.uasset",
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/MyContent/Maps/Map01.umap",
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/MyContent/WarehouseProps/BP_Rack01.uasset",
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/Maps/Minimal_.umap",
+				"C:/Users/yelsa/OneDrive/Documents/Unreal Projects/AroraWarehouse/Content/Maps/Minimal_Default.umap"
+			]
+		}
+	]
+}
